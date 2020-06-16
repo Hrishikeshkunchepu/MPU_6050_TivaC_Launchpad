@@ -1,0 +1,36 @@
+Dependencies for Project 'project', Target 'project': (DO NOT MODIFY !)
+F (.\project.c)(0x5EE6D4CA)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\.. --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\project.o --omf_browse .\rvmdk\project.crf --depend .\rvmdk\project.d)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (..\..\inc/hw_memmap.h)(0x5ED2B1E6)
+I (..\..\inc/hw_types.h)(0x5ED2B1E6)
+I (..\..\inc/hw_gpio.h)(0x5ED2B1E6)
+I (i2c_driver.h)(0x5EE6A6AA)
+I (..\..\driverlib/sysctl.h)(0x5ED2B1D3)
+I (..\..\driverlib/gpio.h)(0x5ED2B1D3)
+I (..\..\driverlib/pin_map.h)(0x5ED2B1D3)
+I (..\..\utils/uartstdio.c)(0x5ED2B1F6)
+I (..\..\inc/hw_ints.h)(0x5ED2B1E6)
+I (..\..\inc/hw_uart.h)(0x5ED2B1E6)
+I (..\..\driverlib/debug.h)(0x5ED2B1D3)
+I (..\..\driverlib/interrupt.h)(0x5ED2B1D3)
+I (..\..\driverlib/rom.h)(0x5ED2B1D3)
+I (..\..\driverlib/rom_map.h)(0x5ED2B1D3)
+I (..\..\driverlib/uart.h)(0x5ED2B1D3)
+I (..\..\utils/uartstdio.h)(0x5ED2B1F6)
+I (C:\Keil\ARM\ARMCC\include\string.h)(0x51C819B4)
+F (.\startup_rvmdk.S)(0x5ED2B1E5)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (.\i2c_driver.c)(0x5EE6A702)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\.. --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\i2c_driver.o --omf_browse .\rvmdk\i2c_driver.crf --depend .\rvmdk\i2c_driver.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (..\..\inc/tm4c123gh6pm.h)(0x5ED2B1E6)
+F (.\i2c_driver.h)(0x5EE6A6AA)()
+F (.\UART.c)(0x53E8E7D4)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I..\.. --c99-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1-o .\rvmdk\uart.o --omf_browse .\rvmdk\uart.crf --depend .\rvmdk\uart.d)
+I (UART.h)(0x537FAF9E)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C819B4)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (..\..\inc/tm4c123gh6pm.h)(0x5ED2B1E6)
+F (.\UART.h)(0x537FAF9E)()
+F (..\..\driverlib\rvmdk\driverlib.lib)(0x5ED2B1D3)()
+F (.\readme.txt)(0x5ED2B1E5)()
